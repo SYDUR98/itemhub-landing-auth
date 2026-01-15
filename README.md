@@ -80,8 +80,7 @@ npm run dev
 * Toast notifications for successful item creation
 * Styled buttons with Tailwind and gradient designs
 
-## Live Demo : 
+## Live Demo : https://itemhub-landing-auth.vercel.app/
 
 ## Github Link: https://github.com/SYDUR98/itemhub-landing-auth
 
-[]
